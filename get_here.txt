@@ -1,1 +1,1 @@
-%STRtest string%END
+#STRtest string#END
