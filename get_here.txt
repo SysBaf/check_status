@@ -1,1 +1,1 @@
-#STR#SV01#EV#SGLhttps://www.google.com#EGL#END
+#$LINK#NONE$#LINK
